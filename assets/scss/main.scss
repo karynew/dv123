@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700');
+@import "responsive.scss";
+
+
+/******colors*****/
+$txt-red:#e03845;
+$txt-white:#ffffff;
+$bg-red:#e03845;
+$bg-white:#ffffff;
+
+/******general*****/
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-size:32px;
+}
+h2{
+    font-size: 28px;
+}
+
+.img-responsive{
+    max-width:100%;
+}
+
+.spacer{
+    padding:20px;
+}

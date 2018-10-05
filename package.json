@@ -1,0 +1,28 @@
+{
+  "name": "manual-front-end",
+  "version": "1.0.0",
+  "description": "Automatizador front-end para minificar codigo html,css,javascript y optimizar imagenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ingenieria Code-labs",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-image": "^4.3.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
